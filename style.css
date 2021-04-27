@@ -1,0 +1,14 @@
+.d-flex button{
+    margin: 1em;
+    padding: 0.5em;
+}
+
+.d-flex table{
+    margin: 1em 4em;
+}
+
+table .btnedit{
+    color: cornflowerblue;
+    cursor: pointer;
+    
+}
